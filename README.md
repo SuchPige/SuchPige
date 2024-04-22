@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 About me:  
 🌱 Fresh IT Grad  
-👁‍🗨 Wide interest in tech   
+👁‍🗨 Interest in solution and full stack  
 📢 Open to all opportunities
