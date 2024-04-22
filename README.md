@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SuchPige/SuchPige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=499CF7&random=false&width=435&lines=Hi+%F0%9F%91%8B+My+name+is+Evan!;Welcome+to+my+Github!)](https://git.io/typing-svg)
+
+About me:  
+🌱 Fresh IT Grad  
+👁‍🗨 Wide interest in tech   
+📢 Open to all opportunities
